@@ -1,6 +1,6 @@
 # ESP32 CarBot - Bluetooth Controlled Robot Car
 
-A wireless robot car controlled via Bluetooth using an ESP32 microcontroller and L298N motor driver. Compatible with the Arduino Bluetooth Controller (https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control) Android app.
+A wireless robot car controlled via Bluetooth using an ESP32 microcontroller and L298N motor driver. Compatible with the [Arduino Bluetooth Controller](https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control) Android app.
 
 ##  Features
 
